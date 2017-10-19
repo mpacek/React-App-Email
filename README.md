@@ -3,7 +3,7 @@ Fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.
 
 ## Heroku Deployment Checklist ##
 
-Push to master brach to automaticly deploy Heroku application
+Push to master branch to automaticly deploy Heroku application
 
 ### 1. Dynamic Port Binding ###
 Heroku tells us which port our app will use, so we need to make sure we listen to the port they tell us to
