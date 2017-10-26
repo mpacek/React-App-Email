@@ -1,3 +1,4 @@
+// Those values will come from Heroku settings
 module.exports = {
   googleClientID: process.env.GOOGLE_CLIENT_ID, // we use capital letters by convention
   googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
