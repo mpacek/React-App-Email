@@ -13,6 +13,7 @@ class Payments extends Component {
       >
         <button className="btn">Add Credits</button>
       </StripeCheckout>
+    );
   }
 }
 
